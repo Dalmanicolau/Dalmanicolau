@@ -27,4 +27,4 @@ Soy Fullstack Web Developer con pasión por construir aplicaciones que tengan un
   :pushpin: My Projects
   </h2>
   <a href = "https://www.youtube.com/watch?v=dWBd5gn2RHw">
-   <img align="center" src="https://drive.google.com/file/d/1AStntJRSmWlS6etgUdxMFXmzeg7UkTQA/view?usp=sharing)https://drive.google.com/file/d/1AStntJRSmWlS6etgUdxMFXmzeg7UkTQA/view?usp=sharing"/>
+   <img align="center" src="https://drive.google.com/file/d/1AStntJRSmWlS6etgUdxMFXmzeg7UkTQA/view?usp=sharing"/>
