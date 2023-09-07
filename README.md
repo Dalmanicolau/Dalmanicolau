@@ -1,8 +1,17 @@
-
+![image](https://github.com/Dalmanicolau/Dalmanicolau/assets/85116192/c95eb962-a82e-4b5c-9356-6f56eca5692f)
 
  
- ## 💫 About Me:
-Soy Fullstack Web Developer con pasión por construir aplicaciones que tengan un buen diseño y que provean de una experiencia amigable para el usuario. Soy de aprendizaje rápido, y tengo un buen ojo para los detalles.<br> Si estás buscando una desarrolladora Fullstack para construir tu próxima aplicación, por favor contactame. Estaré contenta de poder conversar.
+## HELLO!! 👋👋 My name is Dalma Nerea Nicolau 🤩
+ 
+Hello and welcome to my GitHub profile! I am a passionate full stack developer, who finds unique gratification in solving challenges and creating amazing applications. I have a solid understanding of logic and algorithms, I enjoy facing complex challenges and do not stop until I find the most optimal solution. My main goal is to deliver exceptional results and provide users with an experience that will last in their memory.
+
+But that is not all. I am always eager to gain knowledge and stay up to date with the latest trends and best practices in web development. My passion to learn and grow drives me to push my own limits.
+
+As a full stack developer, I have experience in a wide variety of technologies and frameworks. I am prepared to adapt to any project and work effectively in a team. Additionally, my ability to communicate clearly and collaborate closely ensures project success from inception to completion.
+
+If you are looking for someone passionate, committed and willing to face any challenge with a smile, do not hesitate to contact me at dalmanicolau@gmail.com. I'm here to help your business stand out and reach higher levels of success.
+
+I am excited about the possibility of collaborating with you and creating something exceptional together. Let's take web development to a higher level!
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalma-nicolau-1a9620268) 
 
@@ -22,9 +31,14 @@ Soy Fullstack Web Developer con pasión por construir aplicaciones que tengan un
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
       Dalma Nicolau
     </a>
+  <a href="[dalmanicolau@gmail.com](https://calendar.app.google/mbnt6NLE835y7PNf8)">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+      interview schedule
+    </a>
 <p/>
 <h2>
   :pushpin: My Projects
   </h2>
   <a href = "https://www.youtube.com/watch?v=dWBd5gn2RHw">
-   <img align="center" src="https://drive.google.com/file/d/1AStntJRSmWlS6etgUdxMFXmzeg7UkTQA/view?usp=sharing"/>
+   ![image](https://github.com/Dalmanicolau/Dalmanicolau/assets/85116192/c132bb8a-ec5d-4dab-8bbc-2ac24bd3ec16)
+
