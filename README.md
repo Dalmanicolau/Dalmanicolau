@@ -1,4 +1,5 @@
-![image](https://github.com/Dalmanicolau/Dalmanicolau/assets/85116192/c95eb962-a82e-4b5c-9356-6f56eca5692f)
+https://i.gifer.com/RjSK.gif
+
 
  
 ## HELLO!! 👋👋 My name is Dalma Nerea Nicolau 🤩
