@@ -41,5 +41,6 @@ I am excited about the possibility of collaborating with you and creating someth
   :pushpin: My Projects
   </h2>
   <a href = "https://www.youtube.com/watch?v=dWBd5gn2RHw">
-   ![image](https://github.com/Dalmanicolau/Dalmanicolau/assets/85116192/c132bb8a-ec5d-4dab-8bbc-2ac24bd3ec16)
+  
+![Screenshot_1](https://github.com/Dalmanicolau/Dalmanicolau/assets/85116192/31eeb696-20de-47b5-825a-cc5d57460dd5)
 
