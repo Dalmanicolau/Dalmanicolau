@@ -1,7 +1,7 @@
-https://i.gifer.com/RjSK.gif
 
 
- 
+ ![RjSK](https://github.com/Dalmanicolau/Dalmanicolau/assets/85116192/3a4b7e03-837f-4b58-94c4-2fda3ccb012d)
+
 ## HELLO!! 👋👋 My name is Dalma Nerea Nicolau 🤩
  
 Hello and welcome to my GitHub profile! I am a passionate full stack developer, who finds unique gratification in solving challenges and creating amazing applications. I have a solid understanding of logic and algorithms, I enjoy facing complex challenges and do not stop until I find the most optimal solution. My main goal is to deliver exceptional results and provide users with an experience that will last in their memory.
